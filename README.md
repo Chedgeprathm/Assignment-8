@@ -6,7 +6,7 @@ The objective of this project is to develop an Artificial Neural Network (ANN) t
 
 ---
 
-## Dataset
+## Dataset Link
 
 **MNIST Handwritten Digits Dataset**
 
